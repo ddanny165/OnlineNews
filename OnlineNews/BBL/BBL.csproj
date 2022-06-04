@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="DTO\" />
+    <None Remove="Extensions\" />
+    <None Remove="Services\" />
+    <None Remove="Services\Interfaces\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="DTO\" />
+    <Folder Include="Extensions\" />
+    <Folder Include="Services\" />
+    <Folder Include="Services\Interfaces\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DAL\DAL.csproj" />
+  </ItemGroup>
+</Project>

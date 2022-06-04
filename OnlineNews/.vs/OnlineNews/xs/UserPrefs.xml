@@ -1,0 +1,93 @@
+﻿<Properties StartupConfiguration="{51E164B5-10DF-40C5-8060-399A5CCEFDE4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DAL/Context/NewsContext.cs">
+    <Files>
+      <File FileName="DAL/Repositories/TagRepository.cs" Line="1" Column="1" />
+      <File FileName="DAL/Repositories/AuthorRepository.cs" />
+      <File FileName="DAL/Repositories/IRepository.cs" />
+      <File FileName="DAL/Repositories/NewsRepository.cs" />
+      <File FileName="DAL/Models/Rubric.cs" />
+      <File FileName="DAL/Context/NewsContext.cs" Line="10" Column="90" />
+      <File FileName="DAL/Migrations/20220526133401_MyFirstMigration.cs" />
+      <File FileName="BBL/Extensions/AuthorExtension.cs" />
+      <File FileName="BBL/Extensions/RubricExtension.cs" />
+      <File FileName="BBL/Extensions/TagExtension.cs" />
+      <File FileName="BBL/Extensions/NewsTagExtension.cs" />
+      <File FileName="BBL/DTO/NewsTagDTO.cs" />
+      <File FileName="BBL/DTO/RubricDTO.cs" />
+      <File FileName="BBL/DTO/NewsDTO.cs" />
+      <File FileName="DAL/Models/NewsTag.cs" />
+      <File FileName="DAL/Models/News.cs" />
+      <File FileName="BBL/DTO/TagDTO.cs" />
+      <File FileName="DAL/Models/Author.cs" />
+      <File FileName="BBL/Services/Interfaces/INewsService.cs" />
+      <File FileName="BBL/Services/Interfaces/INewsTagService.cs" />
+      <File FileName="BBL/Services/Interfaces/IRubricService.cs" />
+      <File FileName="BBL/Services/Interfaces/ITagService.cs" />
+      <File FileName="BBL/Services/AuthorService.cs" />
+      <File FileName="BBL/Services/NewsService.cs" />
+      <File FileName="BBL/Services/NewsTagService.cs" />
+      <File FileName="BBL/Services/RubricService.cs" />
+      <File FileName="BBL/Services/TagService.cs" />
+      <File FileName="BBL/Services/Interfaces/IAuthorService.cs" />
+      <File FileName="DAL/Repositories/UnitOfWork.cs" />
+      <File FileName="DAL/Repositories/Repository.cs" />
+      <File FileName="PL_API/Startup.cs" />
+      <File FileName="PL_API/Properties/launchSettings.json" />
+      <File FileName="PL_API/appsettings.json" />
+      <File FileName="PL_API/Program.cs" />
+      <File FileName="PL_API/Models/ApiError.cs" />
+      <File FileName="PL_API/Models/NewsModel.cs" />
+      <File FileName="PL_API/Controllers/AuthorController.cs" />
+      <File FileName="BBL/DTO/AuthorDTO.cs" />
+      <File FileName="BBL/Extensions/NewsExtension.cs" />
+      <File FileName="PL_API/Controllers/TagController.cs" />
+      <File FileName="PL_API/Controllers/RubricController.cs" />
+      <File FileName="PL_API/Controllers/NewsController.cs" />
+      <File FileName="PL_API/Controllers/NewsTagController.cs" />
+      <File FileName="PL_API/appsettings.Development.json" />
+      <File FileName="DAL/Models/IEntity.cs" />
+      <File FileName="DAL/Migrations/20220526133401_MyFirstMigration.Designer.cs" />
+      <File FileName="DAL/Migrations/NewsContextModelSnapshot.cs" />
+      <File FileName="DAL/Repositories/IUnitOfWork.cs" />
+      <File FileName="DAL/Repositories/NewsTagRepository.cs" />
+      <File FileName="DAL/Repositories/RubricRepository.cs" />
+      <File FileName="PL_API/Controllers/TokenController.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OnlineNews" expanded="True">
+            <Node name="Solution Items" expanded="True" />
+            <Node name="BBL" expanded="True">
+              <Node name="DTO" expanded="True" />
+              <Node name="Extensions" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="Interfaces" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="DAL" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Context" expanded="True">
+                <Node name="NewsContext.cs" selected="True" />
+              </Node>
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Repositories" expanded="True" />
+            </Node>
+            <Node name="PL_API" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.PL__API PreferredExecutionTarget="/Applications/Safari.app" />
+</Properties>
